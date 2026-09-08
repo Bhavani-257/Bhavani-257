@@ -1,43 +1,39 @@
-# Hello, I'm Bhavani Ettamoni 👋
+# Hi there 👋, I'm Bhavani Ettamoni
 
 <div align="center">
-  <p><strong>3rd Year B.Tech Student | Full-Stack Developer | Problem Solver</strong></p>
-  <p>Seeking my first opportunity to contribute and grow in a dynamic tech environment</p>
-  
-  [![Email](https://img.shields.io/badge/Email-bhavaniettamoni25%40gmail.com-red?style=flat-square&logo=gmail)](mailto:bhavaniettamoni25@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Yadadri%2C%20Telangana-blue?style=flat-square&logo=google-maps)](https://maps.google.com/?q=Yadadri,Telangana-508284)
-  [![University](https://img.shields.io/badge/University-St.%20Mary%27s%20Engineering%20College-orange?style=flat-square)](https://www.stmarysgroup.com/)
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E86AB&center=true&vCenter=true&width=435&lines=B.Tech+Student+%7C+3rd+Year;Full+Stack+Developer;Problem+Solver;Quick+Learner" alt="Typing SVG" />
 </div>
 
 ---
 
-## 📋 About Me
+## 📌 About Me
 
-I'm a passionate and dedicated **3rd-year B.Tech student** at St. Mary's Engineering College, Telangana, with a strong foundation in web development and software engineering. I'm a quick learner with excellent problem-solving abilities, seeking my first professional opportunity to apply my technical skills and grow as a developer. I'm committed to writing clean, efficient code and collaborating effectively with teams.
+I'm a **B.Tech 3rd-year student** at St. Mary's Engineering College, Telangana, passionate about web development and software engineering. I'm actively seeking opportunities to apply my technical skills and grow professionally. Known for my problem-solving abilities, quick learning mindset, and collaborative approach to projects.
 
 ---
 
-## 💻 Technical Skills
+## 🛠️ Technical Skills
 
 ### **Frontend Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### **Backend & Programming**
+### **Backend & Programming Languages**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### **Database & Core Concepts**
-![DBMS](https://img.shields.io/badge/DBMS-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### **Database & Tools**
+![DBMS](https://img.shields.io/badge/DBMS-MySQL-336791?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### **Professional & Soft Skills**
 - ✅ Problem Solving
+- ✅ Critical Thinking
 - ✅ Time Management
 - ✅ Adaptability
 - ✅ Quick Learner
 - ✅ Presentation Skills
-- ✅ Critical Thinking
 - ✅ Decision Making
 - ✅ Collaboration & Communication
 
@@ -48,29 +44,37 @@ I'm a passionate and dedicated **3rd-year B.Tech student** at St. Mary's Enginee
 | Qualification | Institution | Performance |
 |---|---|---|
 | **B.Tech (Ongoing)** | St. Mary's Engineering College, Telangana | CGPA: 8.44 |
-| **Intermediate** | SR College, Telangana | Marks: 892 |
-| **10th Standard** | SSVMHS, Telangana | CGPA: 9.8 |
+| **Intermediate** | S.R. College, Telangana | Marks: 892 |
+| **10th Standard** | S.S.V.M High School, Telangana | CGPA: 9.8 |
 
 ---
 
-## 🚀 Projects
+## 💼 Projects
 
-### **1. Career Path**
-- **Technologies:** HTML, CSS, JavaScript, Java
-- **Description:** An interactive web application designed to guide users in career exploration and planning
-- **Key Features:** Responsive design, user-friendly interface, dynamic content
-
-### **2. Vehicle Rental Management System**
+### 🚗 **Vehicle Rental Management System**
 - **Technologies:** HTML, CSS, JavaScript, Java
 - **Description:** A comprehensive system for managing vehicle rentals with user and admin functionalities
-- **Key Features:** Booking management, inventory tracking, user authentication, clean UI/UX
+- **Key Features:** 
+  - Responsive user interface
+  - Vehicle inventory tracking
+  - Booking management system
+  - User authentication
+  - Dynamic form validation
+
+### 🎯 **Career Path**
+- **Technologies:** HTML, CSS, JavaScript, Java
+- **Description:** An interactive web application designed to guide students in career exploration and planning
+- **Key Features:** 
+  - Responsive design
+  - User-friendly interface
+  - Career assessment tools
+  - Interactive content delivery
 
 ---
 
 ## 🏆 Achievements
 
-- **🥇 Chess Competition Winner**
-  - Demonstrated strategic thinking and competitive excellence
+- 🥇 **Chess Competition Winner** - Demonstrated strategic thinking and competitive excellence
 
 ---
 
@@ -92,16 +96,16 @@ I'm a passionate and dedicated **3rd-year B.Tech student** at St. Mary's Enginee
 
 | Channel | Details |
 |---|---|
-| **Email** | [bhavaniettamoni25@gmail.com](mailto:bhavaniettamoni25@gmail.com) |
-| **University Email** | [24bh1a6636@stmarysgroup.com](mailto:24bh1a6636@stmarysgroup.com) |
-| **Location** | Yadadri, Telangana - 508284 |
+| **Email (Personal)** | [bhavaniettamoni25@gmail.com](mailto:bhavaniettamoni25@gmail.com) |
+| **Email (College)** | [24bh1a6636@stmarysgroup.com](mailto:24bh1a6636@stmarysgroup.com) |
+| **Location** | 📍 Yadadri, Telangana - 508284, India |
 | **GitHub** | [@Bhavani-257](https://github.com/Bhavani-257) |
 
 </div>
 
 ---
 
-## 🎯 Looking For
+## 🎯 What I'm Looking For
 
 - **Internship/Entry-Level Opportunities** in Web Development, Full-Stack Development, or Software Engineering
 - **Collaborative Teams** where I can learn, contribute, and grow
@@ -123,5 +127,7 @@ I'm a passionate and dedicated **3rd-year B.Tech student** at St. Mary's Enginee
 **Feel free to reach out! I'd love to connect and discuss opportunities.** 📨
 
 ⭐ If you find my profile interesting, please consider starring my repositories!
+
+![Profile Views](https://komarev.com/ghpvc/?username=Bhavani-257&color=blue&style=flat)
 
 </div>
